@@ -1,4 +1,5 @@
 # DownloadImage
+Module for Thelia 2.1.x
 
 Download directly the product image
 
